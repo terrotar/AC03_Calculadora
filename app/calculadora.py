@@ -76,7 +76,7 @@ class Multiplicacao(Operacao):
 
 # __________Tests
 teste = Calculadora()
-print(teste.calcular(2, 4, "adio"))
+print(teste.calcular(2, 4, "adicao"))
 print(teste.calcular(4, 2, "subtracao"))
 print(teste.calcular(2, 4, "divisao"))
 print(teste.calcular(2, 4, "multiplicacao"))
